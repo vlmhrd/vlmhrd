@@ -49,6 +49,6 @@ I am constantly expanding my skills and knowledge and I am excited to share my j
 [![OpenAI API Coding with Python Course](https://img.shields.io/badge/©OpenAI_API_Coding_with_Python-lightblue?style=for-the-badge)](https://www.codecademy.com/profiles/script3547616378/certificates/6f2d6ce7c2eb4bf4b0bb6b57a1bcb912)
 
 ## Contact 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/vladamylohradova)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](www.linkedin.com/in/vlada-mylohradova/)
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge)](mailto:vlmhrd@fastmail.com)
 
