@@ -13,32 +13,32 @@ I am constantly expanding my skills and knowledge and I am excited to share my j
 
 ## Skills
 - ### Languages 
-[![Python](https://img.shields.io/badge/Python-white?style=for-the-badge)]()
-[![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+[![SQL](https://img.shields.io/badge/SQL-beer?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
 
 - ### Libraries
-[![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge)]()
-[![Pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge)]()
-[![Numpy](https://img.shields.io/badge/Numpy-white?style=for-the-badge)]()
-[![Skipy](https://img.shields.io/badge/Skipy-white?style=for-the-badge)]()
-[![Seaborn](https://img.shields.io/badge/Seaborn-white?style=for-the-badge)]()
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)]()
-[![matplotlib.pyplot](https://img.shields.io/badge/matplotlib.pyplot-white?style=for-the-badge)]()
+[![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+[![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+[![Numpy](https://img.shields.io/badge/Numpy-darkgreen?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+[![Scipy](https://img.shields.io/badge/SciPy-darkblue?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+[![Seaborn](https://img.shields.io/badge/Seaborn-white?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+
 
 - ### Database tools
-[![SQLite](https://img.shields.io/badge/SQLite-white?style=for-the-badge)]()
-[![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge)]()
-[![Azure SQL](https://img.shields.io/badge/AzureSQL-white?style=for-the-badge)]()
+[![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+[![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+[![Azure SQL](https://img.shields.io/badge/AzureSQL-blue?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
 - ### Visualization 
-[![Tableau](https://img.shields.io/badge/Tableau-white?style=for-the-badge)]()
-[![Power BI](https://img.shields.io/badge/Power_BI-white?style=for-the-badge)]()
+[![Tableau](https://img.shields.io/badge/Tableau-purple?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+[![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
 - ### Other
-[![Azure Cloud](https://img.shields.io/badge/Azure_Cloud-white?style=for-the-badge)]()
-[![VS Code](https://img.shields.io/badge/VS_Code-white?style=for-the-badge)]()
-[![Postman API](https://img.shields.io/badge/Postman_API-white?style=for-the-badge)]()
-[![QA Testing](https://img.shields.io/badge/QA_testing-white?style=for-the-badge)]()
-[![OpenAI API](https://img.shields.io/badge/OpenAI_API-white?style=for-the-badge)]()
-[![Copilot](https://img.shields.io/badge/Copilot-white?style=for-the-badge)]()
+[![Azure Cloud](https://img.shields.io/badge/Azure_Cloud-lightblue?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+[![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+[![Postman API](https://img.shields.io/badge/Postman_API-orange?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+[![QA Testing](https://img.shields.io/badge/QA_testing-white?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+[![OpenAI API](https://img.shields.io/badge/OpenAI_API-black?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
+[![Copilot](https://img.shields.io/badge/Copilot-green?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/edit/main/README.md)
 
 
 ## Certifications 
@@ -49,8 +49,8 @@ I am constantly expanding my skills and knowledge and I am excited to share my j
 [![OpenAI API Coding with Python Course](https://img.shields.io/badge/©OpenAI_API_Coding_with_Python-lightblue?style=for-the-badge)](https://www.codecademy.com/profiles/script3547616378/certificates/6f2d6ce7c2eb4bf4b0bb6b57a1bcb912)
 
 ## Contact 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge)](https://www.linkedin.com/in/vladamylohradova)
-[![Email](https://img.shields.io/badge/Email-pink?style=for-the-badge)](vlmhrd@fastmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/vladamylohradova)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge)](vlmhrd@fastmail.com)
 
 
 
