@@ -50,7 +50,5 @@ I am constantly expanding my skills and knowledge and I am excited to share my j
 
 ## Contact 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/vladamylohradova)
-[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge)](vlmhrd@fastmail.com)
-
-
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge)](mailto:vlmhrd@fastmail.com)
 
