@@ -2,8 +2,8 @@
 
 ## VLADYSLAVA MYLOHRADOVA
 
-Welcome to my GitHub profile! My name is Vlada , Data Science enthusiast with a passion for solving complex problems and discovering insights from data. 
-I am constantly expanding my skills and knowledge and I am excited to share my journey with you through my project portfolio! 😊
+Welcome to my GitHub profile! My name is Vladyslava, Data Science enthusiast with a passion for solving complex problems and discovering insights from data. 
+I am excited to share my portfolio with you!
 
 ## Check out my projects here
 
@@ -26,7 +26,7 @@ I am constantly expanding my skills and knowledge and I am excited to share my j
 
 - ### Database tools
 [![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
-[![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
+[![PostgreSQL](https://img.shields.io/badge/PostrgeSQL-orange?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
 [![Azure SQL](https://img.shields.io/badge/AzureSQL-blue?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
 - ### Visualization 
 [![Tableau](https://img.shields.io/badge/Tableau-purple?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
