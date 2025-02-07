@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! My name is Vladyslava, Data Science enthusiast with a passion for solving complex problems and discovering insights from data. 
 I am excited to share my portfolio with you!
 
-## 📊 Check out my projects here
+## 📊 Projects 
 
 - **[Data Science repository](https://github.com/vlmhrd/certification-projects)**
 - **[Tableau vizzes](https://public.tableau.com/app/profile/vladyslava.mylohradova/vizzes)**
