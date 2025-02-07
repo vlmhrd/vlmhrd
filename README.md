@@ -1,5 +1,4 @@
 
-![white-paper-background-with-flower-branch-shadow](https://github.com/user-attachments/assets/d15e0d36-ecf9-4035-bb80-cc29b2613c52)
 
 ## VLADYSLAVA MYLOHRADOVA
 
