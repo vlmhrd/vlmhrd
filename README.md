@@ -1,13 +1,20 @@
 
 
 ## Welcome
-Welcome to my GitHub profile! My name is Vladyslava, Data Science enthusiast with a passion for solving complex problems and discovering insights from data. 
-I am excited to share my portfolio with you!
+Welcome to my GitHub profile! 
+
 
 ##  Projects 
 - [Data analysis and visualisation in Python](https://github.com/vlmhrd/Data-Analysis-and-Visualization-Python-)
+   -  [Changes in exchange rates during coronavirus epidemic of 2020](https://github.com/vlmhrd/Data-Analysis-and-Visualization-Python-/tree/main/Changes%20in%20exchange%20rates%20during%20coronavirus%20epidemic%20of%202020)
+   -  [Determining indicators of heavy traffic](https://github.com/vlmhrd/Data-Analysis-and-Visualization-Python-/tree/main/Determining%20indicators%20of%20heavy%20traffic)
+   -  [Exploratory analysis - comparing costs of living between states](https://github.com/vlmhrd/Data-Analysis-and-Visualization-Python-/tree/main/Exploratory%20analysis%20-%20comparing%20costs%20of%20living%20between%20states)
+   -  [Summary Statistics - transforming and summarizing space missions data](https://github.com/vlmhrd/Data-Analysis-and-Visualization-Python-/tree/main/Summary%20Statistics%20-%20transforming%20and%20summarizing%20space%20missions%20data)
 - [Probability and statistics](https://github.com/vlmhrd/Probability_and_statistics)
-
+   - [Flight price prediction](https://github.com/vlmhrd/Probability_and_statistics/tree/main/Flight%20price%20prediction)
+   - [Spotify Sampling Distributions](https://github.com/vlmhrd/Probability_and_statistics/tree/main/Spotify%20Sampling%20Distributions)
+   - [Predicting energy consumption](https://github.com/vlmhrd/Probability_and_statistics/tree/main/Predicting%20energy%20consumption)
+   - [Detecting Product Defects with Probability](https://github.com/vlmhrd/Probability_and_statistics/tree/main/Detecting%20Product%20Defects%20with%20Probability)
 ## Skills
 - ### Languages 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
@@ -20,6 +27,7 @@ I am excited to share my portfolio with you!
 [![Scipy](https://img.shields.io/badge/SciPy-darkblue?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
 [![Seaborn](https://img.shields.io/badge/Seaborn-white?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
+sklearn 
 
 - ### Business Intelligence tools  
 [![Tableau](https://img.shields.io/badge/Tableau-purple?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
