@@ -27,7 +27,9 @@ Welcome to my GitHub profile!
 [![Scipy](https://img.shields.io/badge/SciPy-grey?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
 [![Seaborn](https://img.shields.io/badge/Seaborn-grey?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
-[![scikit-learn](https://img.shields.io/badge/Scikit_learn-grey?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
+[![scikit](https://img.shields.io/badge/Scikit-grey?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
+[![statsmodels](https://img.shields.io/badge/Statsmodels-grey?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
+
 
 - ### Business Intelligence tools  
 [![Tableau](https://img.shields.io/badge/Tableau-purple?style=for-the-badge)](https://github.com/vlmhrd/vlmhrd/blob/main/README.md)
