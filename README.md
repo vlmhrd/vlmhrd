@@ -10,5 +10,4 @@ A bit about myself:
 - Ukrainian, English, Polish, French? - I’m happy to find common language with you 😊
 
 
-
-
+Learn more about projects I’ve worked on: 
