@@ -1,4 +1,4 @@
 
-Welcome to my GitHub profile! 😊
+Welcome to my GitHub profile! 
 
-Learn more about projects I’ve worked on: 
+Let's connect, I'd love to create something together 💛
